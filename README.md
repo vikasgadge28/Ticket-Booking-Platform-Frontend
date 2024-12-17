@@ -29,7 +29,10 @@ Currently, two official plugins are available:
 ## Application Screenshots
 
 ### User Dashboard
-![User Dashboard](./images/user-dashboard.png)
+![User Dashboard](./images/user-dashboar![Screenshot 2024-12-17 165521](https://github.com/user-attachments/assets/efeeea21-98cc-4b71-818b-21aeed1d1855)
+d.png)
+
+![Screenshot 2024-12-17 165521](https://github.com/user-attachments/assets/720704f4-703a-4096-83bd-cd8c7cfad35c)
 
 ### Train Search
 ![Train Search](./images/train-search.png)
