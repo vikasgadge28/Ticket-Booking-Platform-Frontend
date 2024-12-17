@@ -32,16 +32,18 @@ Currently, two official plugins are available:
 ![User Dashboard](./images/user-dashboar![Screenshot 2024-12-17 165521](https://github.com/user-attachments/assets/efeeea21-98cc-4b71-818b-21aeed1d1855)
 d.png)
 
-![Screenshot 2024-12-17 165521](https://github.com/user-attachments/assets/720704f4-703a-4096-83bd-cd8c7cfad35c)
 
 ### Train Search
-![Train Search](./images/train-search.png)
+<img width="851" alt="image" src="https://github.com/user-attachments/assets/8ea55f31-e003-4ec5-adb9-0ba70b1ed07f" />
+
 
 ### Admin Panel
-![Admin Panel](./images/admin-panel.png)
+<img width="854" alt="image" src="https://github.com/user-attachments/assets/5949d537-3b13-46c5-a584-78a3e065d1bc" />
+
 
 ### Add New Train
-![Add Train](./images/add-train.png)
+<img width="841" alt="image" src="https://github.com/user-attachments/assets/67edfdd1-ac56-4a57-b7b8-fae761e299ba" />
+
 
 ---
 
